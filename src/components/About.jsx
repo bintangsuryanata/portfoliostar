@@ -14,16 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        My name is Gusti Muhammad Bintang Suryanata, my friends often call me Bintang, I am the first child of three siblings, I come from a district in South Kalimantan, namely Hulu Sungai Tengah
+        Hi, I’m Gusti Muhammad Bintang Suryanata, but everyone calls me Bintang. I’m from Hulu Sungai Tengah in South Kalimantan.
         </p>
 
         <br />
 
         <p className="text-xl">
-        I am now studying at Vocational High School Telkom Banjarbaru majoring in Software Engineering
-        and I am now in 11th grade.
-
-        My goal is to become a Senior Front End Developer in one of the giant companies in Indonesia
+        I graduated from Vocational High School Telkom Banjarbaru, majoring in Software Engineering. Now, I’m pursuing a Bachelor’s degree in Law because I want to focus on Cyber Law—combining my tech background with legal knowledge to understand and solve issues in digital security, data privacy, and technology regulations.
         </p>
       </div>
     </div>

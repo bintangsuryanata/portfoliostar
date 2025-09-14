@@ -15,9 +15,7 @@ const Home = () => {
             I'm a Junior Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I am a Vocational High School student who has experience building and designing software for 3 years.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Javascript, Java , Kotlin , Sass
+            I graduated from Vocational High School Telkom Banjarbaru with a major in Software Engineering and have 5 years of experience building and designing software. I enjoy working on web applications and have hands-on experience with technologies like React, Tailwind, JavaScript, Java, Kotlin, and Sass.
           </p>
 
           <div>

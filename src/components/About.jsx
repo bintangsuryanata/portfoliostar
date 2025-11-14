@@ -14,13 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Hi, I’m Gusti Muhammad Bintang Suryanata, but everyone calls me Bintang. I’m from Hulu Sungai Tengah in South Kalimantan.
+        Hi, I’m Gusti Bintang, but everyone calls me Bintang. I’m from South Kalimantan.
         </p>
 
         <br />
 
         <p className="text-xl">
-        I graduated from Vocational High School Telkom Banjarbaru, majoring in Software Engineering. Now, I’m pursuing a Bachelor’s degree in Law because I want to focus on Cyber Law—combining my tech background with legal knowledge to understand and solve issues in digital security, data privacy, and technology regulations.
+        I graduated from Vocational High School Telkom Banjarbaru, majoring in Software Engineering. Now, I’m pursuing a Bachelor’s degree in Law because I want to focus on Cyber Law combining my tech background with legal knowledge to understand and solve issues in digital security, data privacy, and technology regulations.
         </p>
       </div>
     </div>

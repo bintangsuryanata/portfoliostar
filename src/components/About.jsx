@@ -20,7 +20,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        I graduated from Vocational High School Telkom Banjarbaru, majoring in Software Engineering. Now, I’m pursuing a Bachelor’s degree in Law because I want to focus on Cyber Law combining my tech background with legal knowledge to understand and solve issues in digital security, data privacy, and technology regulations.
+        I graduated from Vocational High School Telkom Banjarbaru, majoring in Software Engineering. I have a strong interest in technology, particularly in software development, digital security, and emerging technologies.
         </p>
       </div>
     </div>
